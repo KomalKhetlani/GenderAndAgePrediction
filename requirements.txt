@@ -6,4 +6,5 @@ streamlit==0.75.0
 matplotlib==3.3.2
 opencv-python-headless
 Keras==2.4.3
+utils==2.5.6
 
