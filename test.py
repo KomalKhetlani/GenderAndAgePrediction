@@ -5,7 +5,6 @@ import cv2
 import matplotlib.pyplot as plt
 from model import build_model_gender
 from model import build_model_age
-from utils import display
 import tensorflow as tf
 import streamlit as st
 import sys
